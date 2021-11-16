@@ -1,4 +1,4 @@
-# Genet * Marissa * Renee
+# Genet | Marissa | Renee
 
 Bon Appétit: Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends!  Smell the aroma, create taste to your liking, devour meals you love and enjoy! List of Ingredients and Instructions to create delicious meals all at your finger tips. Take a peek and put a touch or pinch of whatever to make it your very own :)
 
