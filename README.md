@@ -28,5 +28,9 @@ Take a peek and put a touch or pinch of whatever to make it your very own :)
 ![chili](https://user-images.githubusercontent.com/94158648/141927358-62eb81cf-83b5-4d66-a92c-8c1a51212ca9.png)
 
 
+'Fresh Salmon' 
+![Salmon](https://user-images.githubusercontent.com/94158648/141931713-fb02fab3-b75c-4929-9614-481a02e08b9f.jpg)
+
+
 DIG IN!
 ![489-4894107_yummy-sticker-hungry-emoticon](https://user-images.githubusercontent.com/94158648/141928155-26ae5cc2-b923-48ad-a085-3bcffa6c706e.png)
