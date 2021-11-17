@@ -18,7 +18,7 @@ Take a peek and put a touch or pinch of whatever to make it your very own :)
 
 # Recipes by Genet: 
 ![Tihilo](https://user-images.githubusercontent.com/94158648/142278022-d6ae65f6-3c4d-4879-9161-55d9c3003ac6.jpg)
-My Favorite Traditional Dishes from my home of Tigray: Tihilo
+Genet's Favorite Traditional Dishes from her Homeland of Tigray: Tihilo
 'Tihlo (Tigrinya: ቲህሎ) is a dish from the historical Agame province in northern parts of Ethiopia that consists of barley dough balls covered with meat and berbere (berbere is made of chili after is is dried and powdered) based sauce often served as a snack.Tihlo is commonly consumed as a side dish or snack, especially in Ethiopia's northern communities, specifically the Tigray people. The barley grain is completely dehulled and milled. Tihlo is made using moistened roasted barley flour that is kneaded to a uniform consistency. The dough is then broken into small balls and laid out around a bowl of spicy meat stew. A two-pronged wooden fork is used to spear the ball and dip it into the stew. Tihlo is commonly served on cultural holidays.'
 
 Other Healthy Meals to Fuel My Day:
