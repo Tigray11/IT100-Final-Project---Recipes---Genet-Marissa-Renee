@@ -14,7 +14,7 @@ List of Ingredients and Instructions to create delicious meals all at your finge
 
 Take a peek and put a touch or pinch of whatever to make it your very own :)
 
-Recipes by # Genet 
+# Recipes by Genet: 
 
 'Skillet-Roasted Brussels Sprouts with Pomagranate and Pistachios'
 ![brussels sprouts with pp](https://user-images.githubusercontent.com/94158648/141927117-5187f130-6cd6-439f-a767-6dcc4755f4fb.jpg)
@@ -42,13 +42,13 @@ Additional Recipes for you to Enjoy with your Family and Friends!
 
 ![Dessert_Recipe_Custard_Jelly_Biscuit_Pudding-2](https://user-images.githubusercontent.com/94158648/142275350-8da0817e-2626-4050-86f7-135c49217a76.jpg)
 
-Recipes by # Marissa
+# Recipes by Marissa:
 
 https://github.com/marissadashen/Recipes/blob/main/IT100%20Group%20Project%20GitHub%20Recipe%20Remix.docx
 
 ![desserts](https://user-images.githubusercontent.com/94158648/142275404-23fcfadc-feb8-4130-99e6-c6096daedace.jpg)
 
-Recipes by # Renee
+# Recipes by Renee:
 
 ![samoa food](https://user-images.githubusercontent.com/94158648/142275455-ca04e30a-ba44-4cf7-b20f-ded9cf2b5a85.JPG)
 
