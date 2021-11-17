@@ -55,13 +55,14 @@ https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/
 
 ![Featured-Image-Cooking-293x300](https://user-images.githubusercontent.com/94158648/142270525-0bb92d05-67f3-4282-ae3d-e77d67461cf1.jpg)
 
+https://github.com/marissadashen/Recipes/blob/main/IT100%20Group%20Project%20GitHub%20Recipe%20Remix.docx
+
 ![cooking-for-beginners-cooking-techniques-and-tips](https://user-images.githubusercontent.com/94158648/142270571-6e8b12ff-20f5-4ff2-a44f-1eec19cfe49f.jpg)
 
 ![Dinnerparty](https://user-images.githubusercontent.com/94158648/142280928-9fed48dd-987e-4968-b03c-f97834fe93d1.jpg)
 
 ![Dessert_Recipe_Custard_Jelly_Biscuit_Pudding-2](https://user-images.githubusercontent.com/94158648/142275350-8da0817e-2626-4050-86f7-135c49217a76.jpg)
 
-https://github.com/marissadashen/Recipes/blob/main/IT100%20Group%20Project%20GitHub%20Recipe%20Remix.docx
 
 ![desserts](https://user-images.githubusercontent.com/94158648/142275404-23fcfadc-feb8-4130-99e6-c6096daedace.jpg)
 
