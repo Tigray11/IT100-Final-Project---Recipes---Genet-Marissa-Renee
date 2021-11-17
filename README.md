@@ -18,8 +18,10 @@ Take a peek and put a touch or pinch of whatever to make it your very own :)
 
 # Recipes by Genet: 
 ![Tihilo](https://user-images.githubusercontent.com/94158648/142278022-d6ae65f6-3c4d-4879-9161-55d9c3003ac6.jpg)
-Tihilo: Traditional Food of Tigray 
+My Favorite Traditional Dishes from my home of Tigray: Tihilo
+'Tihlo (Tigrinya: ቲህሎ) is a dish from the historical Agame province in northern parts of Ethiopia that consists of barley dough balls covered with meat and berbere (berbere is made of chili after is is dried and powdered) based sauce often served as a snack.Tihlo is commonly consumed as a side dish or snack, especially in Ethiopia's northern communities, specifically the Tigray people. The barley grain is completely dehulled and milled. Tihlo is made using moistened roasted barley flour that is kneaded to a uniform consistency. The dough is then broken into small balls and laid out around a bowl of spicy meat stew. A two-pronged wooden fork is used to spear the ball and dip it into the stew. Tihlo is commonly served on cultural holidays.'
 
+Other Healthy Meals to Fuel My Day:
 ![brussels sprouts with pp](https://user-images.githubusercontent.com/94158648/141927117-5187f130-6cd6-439f-a767-6dcc4755f4fb.jpg)
 'Skillet-Roasted Brussels Sprouts with Pomagranate and Pistachios'
 
@@ -33,6 +35,7 @@ https://github.com/Tigray11/IT100-Recipe-/blob/main/Nuts%20for%20Broccoli-Walnut
 ![Almond Tea Bread](https://user-images.githubusercontent.com/94158648/141927166-0fe25bc4-1eb0-4b0c-a972-03957c85cd4d.jpeg)
 'Almond Tea Bread'
 
+https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/blob/main/Almond%20Tea%20Bread%202
 
 ![chili](https://user-images.githubusercontent.com/94158648/141927358-62eb81cf-83b5-4d66-a92c-8c1a51212ca9.png)
 'Chili'
@@ -41,6 +44,8 @@ https://github.com/Tigray11/IT100-Recipe-/blob/main/Making%20Delicious%20Chili
  
 ![Salmon](https://user-images.githubusercontent.com/94158648/141931713-fb02fab3-b75c-4929-9614-481a02e08b9f.jpg)
 'Fresh Salmon'
+
+https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/blob/main/Fresh%20Salmon
 
 # Additional Recipes for you to Enjoy with your Family and Friends!
 ![Long table dinner](https://user-images.githubusercontent.com/94158648/142280899-670f7bda-0b62-4bb4-8fa4-c9520bb0c6ae.jpg)
