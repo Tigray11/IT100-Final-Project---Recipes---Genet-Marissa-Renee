@@ -61,13 +61,15 @@ https://github.com/rtautua1827/Chicken-Tinga-Recipe.git
 
 https://github.com/rtautua1827/Authentic-Mexican-Rice-Recipe.git
 
+![mexican 2](https://user-images.githubusercontent.com/94158648/142275581-76d0670f-a585-4341-9ef6-2d109121c9f4.jpg)
+
 https://github.com/rtautua1827/Mexican-Flan.git
 
 https://github.com/rtautua1827/Mexican-Beans.git
 
 https://github.com/rtautua1827/Arroz-con-leche.git
 
-![mexican 2](https://user-images.githubusercontent.com/94158648/142275581-76d0670f-a585-4341-9ef6-2d109121c9f4.jpg)
+
 
 ![samoa food](https://user-images.githubusercontent.com/94158648/142275455-ca04e30a-ba44-4cf7-b20f-ded9cf2b5a85.JPG)
 
