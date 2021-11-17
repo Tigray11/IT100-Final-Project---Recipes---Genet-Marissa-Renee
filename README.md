@@ -46,6 +46,11 @@ https://github.com/Tigray11/IT100-Recipe-/blob/main/Making%20Delicious%20Chili
 ![Long table dinner](https://user-images.githubusercontent.com/94158648/142280899-670f7bda-0b62-4bb4-8fa4-c9520bb0c6ae.jpg)
 
 # Recipes by Marissa:
+
+![Featured-Image-Cooking-293x300](https://user-images.githubusercontent.com/94158648/142270525-0bb92d05-67f3-4282-ae3d-e77d67461cf1.jpg)
+
+![cooking-for-beginners-cooking-techniques-and-tips](https://user-images.githubusercontent.com/94158648/142270571-6e8b12ff-20f5-4ff2-a44f-1eec19cfe49f.jpg)
+
 ![Dinnerparty](https://user-images.githubusercontent.com/94158648/142280928-9fed48dd-987e-4968-b03c-f97834fe93d1.jpg)
 
 ![Dessert_Recipe_Custard_Jelly_Biscuit_Pudding-2](https://user-images.githubusercontent.com/94158648/142275350-8da0817e-2626-4050-86f7-135c49217a76.jpg)
@@ -61,38 +66,29 @@ https://github.com/rtautua1827/Chicken-Tinga-Recipe.git
 
 https://github.com/rtautua1827/Authentic-Mexican-Rice-Recipe.git
 
-![mexican 2](https://user-images.githubusercontent.com/94158648/142275581-76d0670f-a585-4341-9ef6-2d109121c9f4.jpg)
-
 https://github.com/rtautua1827/Mexican-Flan.git
 
 https://github.com/rtautua1827/Mexican-Beans.git
 
 https://github.com/rtautua1827/Arroz-con-leche.git
 
-
+![mexican 2](https://user-images.githubusercontent.com/94158648/142275581-76d0670f-a585-4341-9ef6-2d109121c9f4.jpg)
 
 ![samoa food](https://user-images.githubusercontent.com/94158648/142275455-ca04e30a-ba44-4cf7-b20f-ded9cf2b5a85.JPG)
 
 ![mexican](https://user-images.githubusercontent.com/94158648/142275509-898f3b1a-a51f-4577-ba07-d914a4148062.jpg)
 
-
-
 ![Mango-Cream-Tart_EXPS_JMZ18_224490_D03_08__5b](https://user-images.githubusercontent.com/94158648/142275633-1d09d581-9ab2-44af-9aaf-3d255dc09052.jpg)
 
 ![Samoan](https://user-images.githubusercontent.com/94158648/142279443-5da67092-563b-45be-be3a-28aec3c72776.jpg)
 
-
-DIG IN!
+# DIG IN!
 
 ![Serving Dinner](https://user-images.githubusercontent.com/94158648/142281012-6a7e78c4-4672-4d61-af94-5f5c64e7a37d.jpg)
 
 ![Family_eating_meal_together_skynesher_Getty_Images](https://user-images.githubusercontent.com/94158648/142270434-ca902e90-de84-4323-8fba-d097cc52606f.jpg)
 
 ![christmas dinner](https://user-images.githubusercontent.com/94158648/142270474-2eee4c35-ccae-41b0-bf59-a2fd994e7501.jpg)
-
-![Featured-Image-Cooking-293x300](https://user-images.githubusercontent.com/94158648/142270525-0bb92d05-67f3-4282-ae3d-e77d67461cf1.jpg)
-
-![cooking-for-beginners-cooking-techniques-and-tips](https://user-images.githubusercontent.com/94158648/142270571-6e8b12ff-20f5-4ff2-a44f-1eec19cfe49f.jpg)
 
 ![family and friends dinner](https://user-images.githubusercontent.com/94158648/142281135-f7db40a4-4afa-4d03-840c-aea80f0697da.jpg)
 
