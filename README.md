@@ -55,7 +55,15 @@ https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/
 
 ![Featured-Image-Cooking-293x300](https://user-images.githubusercontent.com/94158648/142270525-0bb92d05-67f3-4282-ae3d-e77d67461cf1.jpg)
 
-https://github.com/marissadashen/Recipes/blob/main/IT100%20Group%20Project%20GitHub%20Recipe%20Remix.docx
+https://github.com/marissadashen/Hasenpfeffer-Rabbit-Stew.git
+
+https://github.com/marissadashen/Rosewater-Custard.git
+
+https://github.com/marissadashen/Pecan-Butter-Sauce.git
+
+https://github.com/marissadashen/Cottage-Cheese-Dumplings.git
+
+https://github.com/marissadashen/Callaloo.git
 
 ![cooking-for-beginners-cooking-techniques-and-tips](https://user-images.githubusercontent.com/94158648/142270571-6e8b12ff-20f5-4ff2-a44f-1eec19cfe49f.jpg)
 
