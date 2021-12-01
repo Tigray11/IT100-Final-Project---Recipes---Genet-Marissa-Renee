@@ -53,7 +53,9 @@ https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/
 
 # Recipes by Marissa:
 
-![Featured-Image-Cooking-293x300](https://user-images.githubusercontent.com/94158648/142270525-0bb92d05-67f3-4282-ae3d-e77d67461cf1.jpg)
+![MarissaChefOutfit](https://user-images.githubusercontent.com/93103705/144161901-c32657a9-3b1f-4560-903c-017356fac8cd.jpg)
+
+
 
 https://github.com/marissadashen/Hasenpfeffer-Rabbit-Stew.git
 
