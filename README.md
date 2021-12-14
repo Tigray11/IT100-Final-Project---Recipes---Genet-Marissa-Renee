@@ -92,17 +92,47 @@ https://github.com/marissadashen/Callaloo.git
 # Recipes by Renee:
 ![Samoan-People-and-Their-Culture-1](https://user-images.githubusercontent.com/94158648/142278208-243bb295-1f4f-4593-b08d-7ec1adf4a0bf.jpg)
 
+![Renee's Culture 2](https://user-images.githubusercontent.com/94158648/146057157-f25487b0-cb2e-43ab-a751-465d2267159c.jpg)
+
+![Renee's Culture last](https://user-images.githubusercontent.com/94158648/146056976-1fc3eac1-3b4c-413a-9328-c7d8be859c50.jpg)
+
+Young taro leaves (make sure that the stem is still green, if it’s red, do not use it) You will need 4 – 6 leaves for each serving, depending on size. So, if you are making 8 servings, you will need 32 – 48 leaves.
+2 cans of creamy style coconut milk (if you cannot find ‘creamy’ you can use standard coconut milk)
+One medium to large onion, chopped
+Salt, to taste (as you can see, I used a wonderful Hawaiian salt)
+Pepper (optional)
+2 cups water
+In a bowl, mix together the coconut milk, onions, salt and pepper
+Take the washed and dried taro leaves and begin building a bowl on the palm of your hand. Notice how fresh these young leaves, straight off the plant, are. Leaves from the store tend to be a bit more ragged, but they still work.
+Using the largest leaf on the bottom, begin stacking leaves on top, each smaller than the other. You will want to use 4 – 6 leaves each serving.
+Now, spoon the coconut milk mixture into the bowl of the taro leaves. Fill it up about half way, maybe a cup or so, but not so much that it overflows when you wrap it.
+For true island flavor, Samoan palusami is cooked in an umu, but most cooks do not have a pit oven available. Not to worry! An electric steamer is the most common method for many Polynesian families, and it makes the dish guaranteed tender! Simply place prepared palusamis in the steamer with the required amount of water and cook for at least 4 hours or more. 
+
+![Renee's Culture 1](https://user-images.githubusercontent.com/94158648/146057278-83e111b5-771e-4e80-8559-21fdf177d26b.jpg)
+
+# More Recipe's by Renee
+
+![mexican 2](https://user-images.githubusercontent.com/94158648/142275581-76d0670f-a585-4341-9ef6-2d109121c9f4.jpg)
+
+![Renee's Chicken Tinga](https://user-images.githubusercontent.com/94158648/146058437-7ab8b5f5-ad4f-4456-8789-0ca730e40deb.jpg)
+
 https://github.com/rtautua1827/Chicken-Tinga-Recipe.git
+
+![Renee's Rice](https://user-images.githubusercontent.com/94158648/146058054-f9249de9-7cb1-46ea-9eb2-796d662c26d8.jpg)
 
 https://github.com/rtautua1827/Authentic-Mexican-Rice-Recipe.git
 
+![Renee's Flan](https://user-images.githubusercontent.com/94158648/146057698-a7271086-2e18-42c5-aae5-b65630c1df5c.jpg)
+
 https://github.com/rtautua1827/Mexican-Flan.git
+
+![Renee's Beans](https://user-images.githubusercontent.com/94158648/146057873-621772a8-63e3-40a1-ad6e-4348015caa29.jpg)
 
 https://github.com/rtautua1827/Mexican-Beans.git
 
-https://github.com/rtautua1827/Arroz-con-leche.git
+![Renee's Arroz Con Leche](https://user-images.githubusercontent.com/94158648/146058288-7c025a62-8f44-4a91-98cc-f5e823dc470f.jpg)
 
-![mexican 2](https://user-images.githubusercontent.com/94158648/142275581-76d0670f-a585-4341-9ef6-2d109121c9f4.jpg)
+https://github.com/rtautua1827/Arroz-con-leche.git
 
 ![samoa food](https://user-images.githubusercontent.com/94158648/142275455-ca04e30a-ba44-4cf7-b20f-ded9cf2b5a85.JPG)
 
