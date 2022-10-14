@@ -1,5 +1,7 @@
 # Genet | Marissa | Renee
 
+# Genet | Marissa | Renee
+
 Bon Appétit: Recipes for Healthy Living, Taste of Home Cooking, Entertaining Friends!  Smell the aroma, create taste to your liking, devour meals you love and enjoy! List of Ingredients and Instructions to create delicious meals all at your finger tips. Take a peek and put a touch or pinch of whatever to make it your very own :)
 
 # IT100-Delicious Recipes
@@ -26,27 +28,27 @@ Other Healthy Meals that Fuel her Day:
 ![brussels sprouts with pp](https://user-images.githubusercontent.com/94158648/141927117-5187f130-6cd6-439f-a767-6dcc4755f4fb.jpg)
 'Skillet-Roasted Brussels Sprouts with Pomagranate and Pistachios'
 
-https://github.com/Tigray11/IT100-Recipe-/blob/main/Skillet-Roasted%20Brussels%20Sprouts%20With%20Pomegranate%20and%20Pistachios
+[Brussel Sprouts With Pistachios Recipe](https://github.com/Tigray11/IT100-Recipe-/blob/main/Skillet-Roasted%20Brussels%20Sprouts%20With%20Pomegranate%20and%20Pistachios)
 
 ![Pesto pasta](https://user-images.githubusercontent.com/94158648/141927156-0e839623-7509-4407-a353-7012a594c34f.jpg)
 'Broccoli-Walnut Pesto Pasta'
 
-https://github.com/Tigray11/IT100-Recipe-/blob/main/Nuts%20for%20Broccoli-Walnut%20Pesto%20Pasta
+[Pesto Pasta Recipe](https://github.com/Tigray11/IT100-Recipe-/blob/main/Nuts%20for%20Broccoli-Walnut%20Pesto%20Pasta)
 
-![Almond Tea Bread](https://user-images.githubusercontent.com/94158648/141927166-0fe25bc4-1eb0-4b0c-a972-03957c85cd4d.jpeg)
+![Almond Tea Bread Recipe](https://user-images.githubusercontent.com/94158648/141927166-0fe25bc4-1eb0-4b0c-a972-03957c85cd4d.jpeg)
 'Almond Tea Bread'
 
-https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/blob/main/Almond%20Tea%20Bread%202
+[Delicious Almond Tea Bread Recipe to your liking - Follow these easy steps and add your favorite flavors](https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/blob/main/Almond%20Tea%20Bread%202)
 
 ![chili](https://user-images.githubusercontent.com/94158648/141927358-62eb81cf-83b5-4d66-a92c-8c1a51212ca9.png)
 'Chili'
 
-https://github.com/Tigray11/IT100-Recipe-/blob/main/Making%20Delicious%20Chili
+[Chili Recipe](https://github.com/Tigray11/IT100-Recipe-/blob/main/Making%20Delicious%20Chili)
  
 ![Salmon](https://user-images.githubusercontent.com/94158648/141931713-fb02fab3-b75c-4929-9614-481a02e08b9f.jpg)
 'Fresh Salmon'
 
-https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/blob/main/Fresh%20Salmon
+[Salmon Recipe](https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/blob/main/Fresh%20Salmon)
 
 # Additional Recipes for you to Enjoy with your Family and Friends!
 ![Long table dinner](https://user-images.githubusercontent.com/94158648/142280899-670f7bda-0b62-4bb4-8fa4-c9520bb0c6ae.jpg)
@@ -58,26 +60,26 @@ https://github.com/Tigray11/IT100-Final-Project---Recipes---Genet-Marissa-Renee/
 ![hasenpfeffer stew](https://user-images.githubusercontent.com/93103705/144162388-3c368475-8c56-4bb8-89e9-8ff413831d08.jpg)
 
 
-https://github.com/marissadashen/Hasenpfeffer-Rabbit-Stew.git
+[Rabbit Stew Recipe](https://github.com/marissadashen/Hasenpfeffer-Rabbit-Stew.git)
 
 ![yakh-dar-behesht Rosewater Custard](https://user-images.githubusercontent.com/93103705/144162439-5c312455-31fc-4f28-938d-9eb412707041.jpg)
 
 
-https://github.com/marissadashen/Rosewater-Custard.git
+[Rosewater Custard Recipe](https://github.com/marissadashen/Rosewater-Custard.git)
 
 
 ![Pecan Butter Sauce Fish](https://user-images.githubusercontent.com/93103705/144162477-b2e8eb04-b6f6-4f9e-bc62-e0001c22c516.jpg)
 
-https://github.com/marissadashen/Pecan-Butter-Sauce.git
+[Pecan Butter Sauce Recipe](https://github.com/marissadashen/Pecan-Butter-Sauce.git)
 
 ![Cottage Cheese Dumplings](https://user-images.githubusercontent.com/93103705/144162512-4ea4ab80-a699-4ad6-9256-808c9d21558f.jpg)
 
 
-https://github.com/marissadashen/Cottage-Cheese-Dumplings.git
+[Cottage Cheese Dumplings Recipe](https://github.com/marissadashen/Cottage-Cheese-Dumplings.git)
 
 ![Callaloo](https://user-images.githubusercontent.com/93103705/144162540-0719678f-c69c-451e-b8e5-55d62d7a7248.jpg)
 
-https://github.com/marissadashen/Callaloo.git
+[Callaloo Recipe](https://github.com/marissadashen/Callaloo.git)
 
 ![cooking-for-beginners-cooking-techniques-and-tips](https://user-images.githubusercontent.com/94158648/142270571-6e8b12ff-20f5-4ff2-a44f-1eec19cfe49f.jpg)
 
@@ -116,23 +118,23 @@ For true island flavor, Samoan palusami is cooked in an umu, but most cooks do n
 
 ![Renee's Chicken Tinga](https://user-images.githubusercontent.com/94158648/146058437-7ab8b5f5-ad4f-4456-8789-0ca730e40deb.jpg)
 
-https://github.com/rtautua1827/Chicken-Tinga-Recipe.git
+[Chicken Tinga Recipe](https://github.com/rtautua1827/Chicken-Tinga-Recipe.git)
 
 ![Renee's Rice](https://user-images.githubusercontent.com/94158648/146058054-f9249de9-7cb1-46ea-9eb2-796d662c26d8.jpg)
 
-https://github.com/rtautua1827/Authentic-Mexican-Rice-Recipe.git
+[Authentic Mexican Rice Recipe](https://github.com/rtautua1827/Authentic-Mexican-Rice-Recipe.git)
 
 ![Renee's Flan](https://user-images.githubusercontent.com/94158648/146057698-a7271086-2e18-42c5-aae5-b65630c1df5c.jpg)
 
-https://github.com/rtautua1827/Mexican-Flan.git
+[Mexican Flan](https://github.com/rtautua1827/Mexican-Flan.git)
 
 ![Renee's Beans](https://user-images.githubusercontent.com/94158648/146057873-621772a8-63e3-40a1-ad6e-4348015caa29.jpg)
 
-https://github.com/rtautua1827/Mexican-Beans.git
+[Mexican Beans](https://github.com/rtautua1827/Mexican-Beans.git)
 
 ![Renee's Arroz Con Leche](https://user-images.githubusercontent.com/94158648/146058288-7c025a62-8f44-4a91-98cc-f5e823dc470f.jpg)
 
-https://github.com/rtautua1827/Arroz-con-leche.git
+[Arroz Con Leche](https://github.com/rtautua1827/Arroz-con-leche.git)
 
 ![samoa food](https://user-images.githubusercontent.com/94158648/142275455-ca04e30a-ba44-4cf7-b20f-ded9cf2b5a85.JPG)
 
